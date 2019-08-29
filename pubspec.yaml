@@ -40,6 +40,17 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
+  assets:
+    - image/daging_sapi.jpg
+    - image/daging_sapi_semur.jpg
+    - image/ikan_tauco.jpg
+    - image/kol_kukus.jpg
+    - image/nasi_goreng.jpg
+    - image/nasi_goreng_rempah.jpg
+    - image/orak_arik.jpg
+    - image/sayur_lodeh.jpg
+    - image/tumis_jagung.jpg
+    - image/udang_saos.jpg
   # To add assets to your application, add an assets section, like this:
   # assets:
   #  - images/a_dot_burr.jpeg
