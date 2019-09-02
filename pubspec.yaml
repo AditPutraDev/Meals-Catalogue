@@ -41,7 +41,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - image/daging_sapi.jpg
+    - image/gudeg.jpg
     - image/daging_sapi_semur.jpg
     - image/ikan_tauco.jpg
     - image/kol_kukus.jpg
@@ -51,6 +51,16 @@ flutter:
     - image/sayur_lodeh.jpg
     - image/tumis_jagung.jpg
     - image/udang_saos.jpg
+    - image/bola_ubi.jpg
+    - image/churros.jpg
+    - image/dadar_gulung.jpg
+    - image/nagasari_labu.jpg
+    - image/pie_buah.jpg
+    - image/pisang_gapit.jpg
+    - image/pisang_meler.jpg
+    - image/srikaya_roti.jpg
+    - image/waffle.jpg
+    - image/ubi_goreng_kismis.jpg
   # To add assets to your application, add an assets section, like this:
   # assets:
   #  - images/a_dot_burr.jpeg
